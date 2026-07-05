@@ -1,9 +1,0 @@
-.home-container{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    min-height: 470px;
-    background-color: hsla(180, 88%, 39%);
-background-image: linear-gradient(315deg, #0cbaba 0%, #380036 74%);
-
-}
